@@ -1,6 +1,6 @@
 # Youssef Hany | Luxury & Exotics
 
-Bilingual static website for GitHub Pages. Source is in `data/`, `i18n/`, `src/`, `site.config.json`, and `generate.py`. The generated site is committed under `docs/`.
+Bilingual static website for GitHub Pages. Source is in `data/`, `i18n/`, `src/`, `site.config.json`, and `generate.py`. The generated site is committed under `docs/` and mirrored to the repository root so the site still works if GitHub Pages is configured to publish from `/(root)`.
 
 ## Local build
 
@@ -8,7 +8,7 @@ Requirements: Node.js and Python 3. Run `npm run build`. The build generates the
 
 ## GitHub Pages
 
-Set the repository's Pages source to the `main` branch and `/docs` folder. `site.config.json` currently uses `base_path: "/-"` to match `https://youssefhany911m4.github.io/-/`. Change this value if the repository path changes, then rebuild.
+Recommended: set **Settings → Pages → Deploy from a branch → `main` → `/(root)`**. The generated site is now mirrored to the repository root and `docs/`, so either root or `/docs` publishing can work. For the root setting, the repository root `index.html`, `ar/`, `en/`, and `assets/` are the published site. `site.config.json` uses `base_path: "/-"` to match `https://youssefhany911m4.github.io/-/`. If the repository path changes, update it and run `npm run build`. After pushing, open **Actions** and wait for Pages to finish deploying; GitHub notes publication may take up to 10 minutes.
 
 ## Vehicle data
 

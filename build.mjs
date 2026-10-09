@@ -18,3 +18,13 @@ if (qa.stdout) process.stdout.write(qa.stdout);
 if (qa.stderr) process.stderr.write(qa.stderr);
 if (qa.status !== 0) process.exit(qa.status ?? 1);
 console.log(`Build checks passed: ${pages.length} index pages, ${data.length} vehicle records.`);
+
+// Keep a root-published copy in sync as a deployment fallback. This prevents
+// GitHub Pages from serving an older root index when Pages is configured to /(root).
+for (const name of ['index.html', '404.html', 'ar', 'en', 'assets', 'manifest.webmanifest', 'robots.txt', 'sitemap.xml']) {
+  const from = path.join(root, 'docs', name);
+  const to = path.join(root, name);
+  if (!fs.existsSync(from)) continue;
+  fs.cpSync(from, to, { recursive: true, force: true });
+}
+console.log('Deployment fallback synchronized to repository root.');
