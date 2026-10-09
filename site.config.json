@@ -1,0 +1,33 @@
+{
+  "base_path": "/-",
+  "brand_name": "Youssef Hany",
+  "brand_subtitle": "Luxury & Exotics",
+  "tagline": {
+    "en": "Direct. Transparent. Premium.",
+    "ar": "مباشر. واضح. بمستوى مميز."
+  },
+  "tagline_confirmed": false,
+  "whatsapp_number": "201014437631",
+  "phone_display": "+20 101 443 7631",
+  "email": "youssefhany7y7y@gmail.com",
+  "instagram": "https://www.instagram.com/youssefhany911m4",
+  "facebook": "https://www.facebook.com/profile.php?id=61590951720910",
+  "verified": {
+    "phone": false,
+    "email": false,
+    "instagram": false,
+    "facebook": false
+  },
+  "commission_confirmed": false,
+  "commission_percent": 1,
+  "legal_name": "",
+  "address_or_service_area": "Cairo, Egypt",
+  "working_hours": "",
+  "commercial_register": "",
+  "tax_number": "",
+  "chat_retention_period": "",
+  "deletion_reply_time": "",
+  "governing_law": "",
+  "deposits_policy_confirmed": false,
+  "take_deposits": null
+}

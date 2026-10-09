@@ -1,0 +1,32 @@
+{
+  "id": "brand-model-year",
+  "status": "available",
+  "brand": "Brand",
+  "model": "Model",
+  "year": 2026,
+  "trim": {
+    "en": "Trim",
+    "ar": "الفئة"
+  },
+  "package": null,
+  "spec": null,
+  "body": null,
+  "condition": null,
+  "mileage_km": null,
+  "location": null,
+  "price": 0,
+  "currency": "EGP",
+  "images": [
+    {
+      "file": "01-main.jpg",
+      "view": "front",
+      "alt": {
+        "en": "Specific description",
+        "ar": "وصف محدد"
+      },
+      "rights_confirmed": false
+    }
+  ],
+  "added": "YYYY-MM-DD",
+  "updated": "YYYY-MM-DD"
+}

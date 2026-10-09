@@ -1,0 +1,270 @@
+[
+  {
+    "id": "mercedes-e200-2023",
+    "status": "available",
+    "brand": "Mercedes-Benz",
+    "model": "E200",
+    "year": 2023,
+    "trim": {
+      "en": "Avantgarde Plus",
+      "ar": "Avantgarde Plus"
+    },
+    "package": null,
+    "spec": "fully-loaded",
+    "body": null,
+    "condition": null,
+    "mileage_km": 20000,
+    "location": {
+      "en": "Nasr City",
+      "ar": "مدينة نصر"
+    },
+    "price": 4100000,
+    "currency": "EGP",
+    "added": "2026-10-09",
+    "updated": "2026-10-09",
+    "images": [
+      {
+        "file": "01-main.jpg",
+        "view": "main",
+        "alt": {
+          "en": "Mercedes-Benz E200 2023, main view",
+          "ar": "Mercedes-Benz E200 موديل 2023، main"
+        },
+        "rights_confirmed": false
+      },
+      {
+        "file": "02-interior.jpg",
+        "view": "interior",
+        "alt": {
+          "en": "Mercedes-Benz E200 2023, interior view",
+          "ar": "Mercedes-Benz E200 موديل 2023، interior"
+        },
+        "rights_confirmed": false
+      },
+      {
+        "file": "03-rear.jpg",
+        "view": "rear",
+        "alt": {
+          "en": "Mercedes-Benz E200 2023, rear view",
+          "ar": "Mercedes-Benz E200 موديل 2023، rear"
+        },
+        "rights_confirmed": false
+      }
+    ]
+  },
+  {
+    "id": "mercedes-e200-2024",
+    "status": "available",
+    "brand": "Mercedes-Benz",
+    "model": "E200",
+    "year": 2024,
+    "trim": {
+      "en": "AMG Premium Plus",
+      "ar": "AMG Premium Plus"
+    },
+    "package": null,
+    "spec": "fully-loaded",
+    "body": null,
+    "condition": null,
+    "mileage_km": 25000,
+    "location": null,
+    "price": 4950000,
+    "currency": "EGP",
+    "added": "2026-10-09",
+    "updated": "2026-10-09",
+    "images": [
+      {
+        "file": "01-main.jpg",
+        "view": "main",
+        "alt": {
+          "en": "Mercedes-Benz E200 2024, main view",
+          "ar": "Mercedes-Benz E200 موديل 2024، main"
+        },
+        "rights_confirmed": false
+      },
+      {
+        "file": "02-rear.jpg",
+        "view": "rear",
+        "alt": {
+          "en": "Mercedes-Benz E200 2024, rear view",
+          "ar": "Mercedes-Benz E200 موديل 2024، rear"
+        },
+        "rights_confirmed": false
+      },
+      {
+        "file": "03-front-detail.jpg",
+        "view": "front-detail",
+        "alt": {
+          "en": "Mercedes-Benz E200 2024, front detail view",
+          "ar": "Mercedes-Benz E200 موديل 2024، front detail"
+        },
+        "rights_confirmed": false
+      },
+      {
+        "file": "04-interior.jpg",
+        "view": "interior",
+        "alt": {
+          "en": "Mercedes-Benz E200 2024, interior view",
+          "ar": "Mercedes-Benz E200 موديل 2024، interior"
+        },
+        "rights_confirmed": false
+      }
+    ]
+  },
+  {
+    "id": "mercedes-e300-2021",
+    "status": "available",
+    "brand": "Mercedes-Benz",
+    "model": "E300",
+    "year": 2021,
+    "trim": {
+      "en": "AMG Night Package",
+      "ar": "AMG Night Package"
+    },
+    "package": null,
+    "spec": null,
+    "body": "Convertible",
+    "condition": null,
+    "mileage_km": 113000,
+    "location": {
+      "en": "Al Obour",
+      "ar": "العبور"
+    },
+    "price": 2900000,
+    "currency": "EGP",
+    "added": "2026-10-09",
+    "updated": "2026-10-09",
+    "images": [
+      {
+        "file": "01-main.jpg",
+        "view": "main",
+        "alt": {
+          "en": "Mercedes-Benz E300 2021, main view",
+          "ar": "Mercedes-Benz E300 موديل 2021، main"
+        },
+        "rights_confirmed": false
+      },
+      {
+        "file": "02-rear.jpg",
+        "view": "rear",
+        "alt": {
+          "en": "Mercedes-Benz E300 2021, rear view",
+          "ar": "Mercedes-Benz E300 موديل 2021، rear"
+        },
+        "rights_confirmed": false
+      },
+      {
+        "file": "03-interior.jpg",
+        "view": "interior",
+        "alt": {
+          "en": "Mercedes-Benz E300 2021, interior view",
+          "ar": "Mercedes-Benz E300 موديل 2021، interior"
+        },
+        "rights_confirmed": false
+      }
+    ]
+  },
+  {
+    "id": "mercedes-g63-2025",
+    "status": "available",
+    "brand": "Mercedes-AMG",
+    "model": "G63",
+    "year": 2025,
+    "trim": {
+      "en": "AMG Night Package",
+      "ar": "AMG Night Package"
+    },
+    "package": null,
+    "spec": "fully-loaded",
+    "body": null,
+    "condition": null,
+    "mileage_km": 12000,
+    "location": null,
+    "price": 16250000,
+    "currency": "EGP",
+    "added": "2026-10-09",
+    "updated": "2026-10-09",
+    "images": [
+      {
+        "file": "01-main.jpg",
+        "view": "main",
+        "alt": {
+          "en": "Mercedes-AMG G63 2025, main view",
+          "ar": "Mercedes-AMG G63 موديل 2025، main"
+        },
+        "rights_confirmed": false
+      },
+      {
+        "file": "02-side.jpg",
+        "view": "side",
+        "alt": {
+          "en": "Mercedes-AMG G63 2025, side view",
+          "ar": "Mercedes-AMG G63 موديل 2025، side"
+        },
+        "rights_confirmed": false
+      },
+      {
+        "file": "03-interior.jpg",
+        "view": "interior",
+        "alt": {
+          "en": "Mercedes-AMG G63 2025, interior view",
+          "ar": "Mercedes-AMG G63 موديل 2025، interior"
+        },
+        "rights_confirmed": false
+      }
+    ]
+  },
+  {
+    "id": "rolls-royce-cullinan-2026",
+    "status": "available",
+    "brand": "Rolls-Royce",
+    "model": "Cullinan",
+    "year": 2026,
+    "trim": null,
+    "package": null,
+    "spec": null,
+    "body": null,
+    "condition": {
+      "en": "Brand New / Zero",
+      "ar": "جديدة بالكامل / صفر"
+    },
+    "mileage_km": null,
+    "location": {
+      "en": "Fifth Settlement",
+      "ar": "التجمع الخامس"
+    },
+    "price": 55000000,
+    "currency": "EGP",
+    "added": "2026-10-09",
+    "updated": "2026-10-09",
+    "images": [
+      {
+        "file": "01-main.jpg",
+        "view": "main",
+        "alt": {
+          "en": "Rolls-Royce Cullinan 2026, main view",
+          "ar": "Rolls-Royce Cullinan موديل 2026، main"
+        },
+        "rights_confirmed": false
+      },
+      {
+        "file": "02-rear.jpg",
+        "view": "rear",
+        "alt": {
+          "en": "Rolls-Royce Cullinan 2026, rear view",
+          "ar": "Rolls-Royce Cullinan موديل 2026، rear"
+        },
+        "rights_confirmed": false
+      },
+      {
+        "file": "03-interior.jpg",
+        "view": "interior",
+        "alt": {
+          "en": "Rolls-Royce Cullinan 2026, interior view",
+          "ar": "Rolls-Royce Cullinan موديل 2026، interior"
+        },
+        "rights_confirmed": false
+      }
+    ]
+  }
+]
